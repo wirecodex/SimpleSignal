@@ -1,5 +1,7 @@
 # SimpleSignal
 
+ **Alpha — v0.1.0.** This module is in early testing. The API may change before a stable release. Feedback and bug reports are welcome.
+ 
 Declarative, chainable, compiled signal layer over ProcessWire hooks.
 
 ## Features
